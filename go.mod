@@ -1,1 +1,1 @@
-module github.com/restuhaqza/gomodinit
+module github.com/restuhaqza/aritmatika
