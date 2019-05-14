@@ -1,4 +1,4 @@
-package learngomod
+package aritmatika
 
 func Aritmatika(items ...int64) int64 {
 	res := int64(1)
